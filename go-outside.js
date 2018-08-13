@@ -1,4 +1,4 @@
-/*var cold = false;
+/* var cold = false;
 
 if (cold) {
   console.log("Make sure you pick out a scarf!");
@@ -8,7 +8,7 @@ if (cold) {
 
 var temperature = -4;
 
-if (temperature < 0) {
+if (temperature <  0) {
   console.log("Make sure you pick out a scarf.");
 } else if (temperature < 15) {
   console.log("Short sleeves won't cut it!");
